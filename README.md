@@ -2,6 +2,10 @@
 # 7-Zip Güncelleme Kontrolü - PyQt5 Uygulaması
 
 Bu Python uygulaması, Windows bilgisayarlarında yüklü olan **7-Zip** sürümünü kontrol eder, resmi 7-Zip web sitesinden güncel sürümü alır ve eğer güncel sürüm mevcutsa, kullanıcıya güncelleme yapma seçeneği sunar. Kullanıcı "Evet" derse, uygulama 7-Zip'i indirip otomatik olarak kurar.
+## Program Görselleri
+![Görsel 1](https://github.com/ebubekirbastama/EBS7-zip-Guncelleyici/blob/main/s1.png)
+![Görsel 2](https://github.com/ebubekirbastama/EBS7-zip-Guncelleyici/blob/main/s2.png)
+
 
 ## Özellikler
 
