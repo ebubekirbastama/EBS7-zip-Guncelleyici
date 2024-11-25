@@ -6,6 +6,11 @@ Bu Python uygulaması, Windows bilgisayarlarında yüklü olan **7-Zip** sürüm
 ![Görsel 1](https://github.com/ebubekirbastama/EBS7-zip-Guncelleyici/blob/main/s1.png)
 ![Görsel 2](https://github.com/ebubekirbastama/EBS7-zip-Guncelleyici/blob/main/s2.png)
 
+## Demo Video
+
+Projenin nasıl çalıştığını görmek için aşağıdaki bağlantıdan video demosunu izleyebilirsiniz:  
+[![YouTube Video](https://img.youtube.com/vi/p3YNOt7bVc8/0.jpg)](https://www.youtube.com/watch?v=p3YNOt7bVc8)
+
 
 ## Özellikler
 
